@@ -12,7 +12,7 @@ const blogPosts = [
   {
     id: 2,
     title: 'Mastering SEO in 2024',
-    excerpt: 'Tips and strategies for improving your website's search engine rankings.',
+    excerpt: "Tips and strategies for improving your website's search engine rankings.",
     date: '2024-02-15',
   },
   {

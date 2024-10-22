@@ -50,7 +50,7 @@ const Contact = () => {
       className="container mx-auto px-4 py-8"
     >
       <Helmet>
-        <title>Contact Elisha Ejimofor - Web Developer & Digital Marketer</title>
+        <title>Contact Elisha Ejimofor - Web Developer & Digital Specialist</title>
         <meta name="description" content="Get in touch with Elisha Ejimofor for web development, graphic design, and digital marketing services." />
       </Helmet>
       <h1 className="text-4xl font-bold mb-8">Contact Me</h1>

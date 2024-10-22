@@ -11,12 +11,12 @@ const skillCategories = [
   {
     title: 'Back End',
     icon: <Server size={24} />,
-    skills: ['PHP', 'MySQL', 'WordPress', 'Node.js', 'Express.js'],
+    skills: ['PHP', 'MySQL', 'WordPress', 'API Integration'],
   },
   {
     title: 'Digital',
     icon: <Megaphone size={24} />,
-    skills: ['SEO', 'Content Marketing', 'Social Media', 'Ads Setup', 'AI Prompt Engineering'],
+    skills: ['SEO', 'Content creating', 'Social Media', 'Ads Setup', 'AI Prompt Engineering'],
   },
   {
     title: 'Others',

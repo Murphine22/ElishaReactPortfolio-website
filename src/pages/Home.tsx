@@ -15,7 +15,7 @@ const Home = () => {
       className="container mx-auto px-4 py-8"
     >
       <Helmet>
-        <title>Elisha Ejimofor - Web Developer, Designer & Digital Marketer</title>
+        <title>Elisha Ejimofor - Web Developer,Graphics Designer & Digital Marketer</title>
         <meta name="description" content="Portfolio of Elisha Ejimofor, a skilled web developer, graphic designer, and digital marketer with expertise in AI optimization." />
       </Helmet>
       <HeroSection />
